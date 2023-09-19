@@ -4,12 +4,12 @@ Hi 👋, I'm Valeria
 
 Student of Data Science and Artificial Intelligence @ DSSC - Units
 
-🎓 BSc in Physics @ University of Milan
-📚 MSc in Data Science and Scientific Computing - AI
-📈 Interested in LLMs
-👩🏻‍💻 Passion for programming
-👯 I’m looking to find a internship in NLP
-⚡ Fun fact: I am a former amateur theater actress
+- 🎓 BSc in Physics @ University of Milan
+- 📚 MSc in Data Science and Scientific Computing - AI
+- 📈 Interested in LLMs
+- 👩🏻‍💻 Passion for programming
+- 👯 I’m looking to find a internship in NLP
+- ⚡ Fun fact: I am a former amateur theater actress
 
 Contact: valinsogna@gmailcom
 
