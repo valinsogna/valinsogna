@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi 👋, I'm Valeria
+I'm Valeria
 
 Student of Data Science and Artificial Intelligence @ DSSC - Units
 
@@ -11,7 +11,13 @@ Student of Data Science and Artificial Intelligence @ DSSC - Units
 - 👯 I’m looking to find a internship in NLP
 - ⚡ Fun fact: I am a former amateur theater actress
 
-Contact: valinsogna@gmailcom
+🔍 **Main Projects apart from pinned:**
+- [TextMiningSvevo](https://github.com/valinsogna/TextMiningSvevo) - LDA, topic modeling, sentiment analysis on Svevo's corpus
+- [EthicalAI-STACKAnalysis](https://github.com/valinsogna/EthicalAI-STACKAnalysis) - K-Means and Correspondence Analysis on Stack platform
+- [data_visualization_project](https://github.com/valinsogna/data_visualization_project) - Data Visualization techniques for a case study
+
+📫 **Contact:** 
+[valinsogna@gmail.com](mailto:valinsogna@gmail.com)
 
 
 
