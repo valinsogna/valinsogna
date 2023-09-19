@@ -15,6 +15,7 @@ Student of Data Science and Artificial Intelligence @ DSSC - Units
 - [GPTGram](https://github.com/SilvioBaratto/GPTGram) - Telegram chatbot API using decoder-only transformer LLM
 
 🔍 **Projects apart from pinned:**
+- [HeadachePredictor-HMM](https://github.com/valinsogna/HeadachePredictor-HMM) - HMMs comparison as predictors for headaches using a dataset of binary sequences.
 - [TextMiningSvevo](https://github.com/valinsogna/TextMiningSvevo) - LDA, topic modeling, sentiment analysis on Svevo's corpus
 - [EthicalAI-STACKAnalysis](https://github.com/valinsogna/EthicalAI-STACKAnalysis) - K-Means and Correspondence Analysis on Stack platform
 - [data_visualization_project](https://github.com/valinsogna/data_visualization_project) - Data Visualization techniques for a case study
