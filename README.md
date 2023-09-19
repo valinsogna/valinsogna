@@ -21,6 +21,7 @@ Student of Data Science and Artificial Intelligence @ DSSC - Units
 - [data_visualization_project](https://github.com/valinsogna/data_visualization_project) - Data Visualization techniques for a case study
 - [Covid19-Hospitalization-Insights_Lombardia_2020-2](https://github.com/valinsogna/Covid19-Hospitalization-Insights_Lombardia_2020-21) - Case study application of GLM and GAM models
 - [2021Assignement02](https://github.com/valinsogna/2021Assignement02) - Parallel implementation of kd-tree construction using MPI & OpenMP in C
+- [c-_rbt_project](https://github.com/valinsogna/c-_rbt_project) - Implementation of Red-Black Tree class in C++
 
 📫 **Contact:** 
 [valinsogna@gmail.com](mailto:valinsogna@gmail.com)
