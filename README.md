@@ -11,6 +11,9 @@ Student of Data Science and Artificial Intelligence @ DSSC - Units
 - 👯 I’m looking to find a internship in NLP
 - ⚡ Fun fact: I am a former amateur theater actress
 
+:fire: **Most proud project:**
+- [GPTGram](https://github.com/SilvioBaratto/GPTGram) - Telegram chatbot API using decoder-only transformer LLM
+
 🔍 **Projects apart from pinned:**
 - [TextMiningSvevo](https://github.com/valinsogna/TextMiningSvevo) - LDA, topic modeling, sentiment analysis on Svevo's corpus
 - [EthicalAI-STACKAnalysis](https://github.com/valinsogna/EthicalAI-STACKAnalysis) - K-Means and Correspondence Analysis on Stack platform
