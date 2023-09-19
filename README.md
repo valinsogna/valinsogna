@@ -19,7 +19,7 @@ Student of Data Science and Artificial Intelligence @ DSSC - Units
 - [EthicalAI-STACKAnalysis](https://github.com/valinsogna/EthicalAI-STACKAnalysis) - K-Means and Correspondence Analysis on Stack platform
 - [data_visualization_project](https://github.com/valinsogna/data_visualization_project) - Data Visualization techniques for a case study
 - [Covid19-Hospitalization-Insights_Lombardia_2020-2](https://github.com/valinsogna/Covid19-Hospitalization-Insights_Lombardia_2020-21) - Case study application of GLM and GAM models
-
+- [2021Assignement02](https://github.com/valinsogna/2021Assignement02) - Parallel implementation of kd-tree construction using MPI & OpenMP in C.
 📫 **Contact:** 
 [valinsogna@gmail.com](mailto:valinsogna@gmail.com)
 
