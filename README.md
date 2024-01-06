@@ -6,13 +6,13 @@ Student of Data Science and Artificial Intelligence @ DSSC - Units
 
 - 🎓 BSc in Physics @ University of Milan
 - 📚 MSc in Data Science and Scientific Computing - AI
-- 📈 Interested in LLMs
+- 📈 Interested in LLMs and MARL.
 - 👩🏻‍💻 Passion for programming
-- 👯 I’m looking to find a internship in NLP
 - ⚡ Fun fact: I am a former amateur theater actress
 
 :fire: **Most proud project:**
 - [GPTGram](https://github.com/SilvioBaratto/GPTGram) - Telegram chatbot API using decoder-only transformer LLM
+- [AutoMLP-GA](https://github.com/valinsogna/AutoMLP-GA) - Automation of topology-optimization for Multi-Layer Perceptrons using Genetic Algorithms for classification tasks
 
 🔍 **Projects apart from pinned:**
 - [HeadachePredictor-HMM](https://github.com/valinsogna/HeadachePredictor-HMM) - HMMs comparison as predictors for headaches using a dataset of binary sequences.
