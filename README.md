@@ -2,17 +2,19 @@
 
 I'm Valeria
 
-Student of Data Science and Artificial Intelligence @ DSSC - Units
+Newly graduate student of master degree course "Data Science and Artificial Intelligence" @ DSSC - Units
 
 - 🎓 BSc in Physics @ University of Milan
 - 📚 MSc in Data Science and Scientific Computing - AI
-- 📈 Interested in LLMs and MARL.
+- 📈 Interested in LLMs and MARL models.
 - 👩🏻‍💻 Passion for programming
 - ⚡ Fun fact: I am a former amateur theater actress
 
 :fire: **Most proud project:**
+- [GovTaxOptimal_RL](https://github.com/valinsogna/GovTaxOptimal_RL) - **thesis project** RL framework designed to simulate and optimize government taxation policies. Focused on balancing economic equality and consumption, it employs state-of-the-art RL algorithms, PPO and SAC, to navigate wealth taxation strategies across various economic scenarios, aiming to achieve optimal wealth distribution and economic efficiency
 - [GPTGram](https://github.com/SilvioBaratto/GPTGram) - Telegram chatbot API using decoder-only transformer LLM
 - [AutoMLP-GA](https://github.com/valinsogna/AutoMLP-GA) - Automation of topology-optimization for Multi-Layer Perceptrons using Genetic Algorithms for classification tasks
+
 
 🔍 **Projects apart from pinned:**
 - [HeadachePredictor-HMM](https://github.com/valinsogna/HeadachePredictor-HMM) - HMMs comparison as predictors for headaches using a dataset of binary sequences.
