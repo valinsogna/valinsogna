@@ -2,7 +2,7 @@
 
 I'm Valeria
 
-Newly graduate student of master degree course "Data Science and Artificial Intelligence" @ DSSC - Units
+I am an Automation Engineer at Generali Italia but with a strong background in AI and Data Science:
 
 - 🎓 BSc in Physics @ University of Milan
 - 📚 MSc in Data Science and Scientific Computing - AI
