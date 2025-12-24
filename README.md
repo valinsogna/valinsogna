@@ -11,6 +11,7 @@ I am an Automation Engineer at Generali Italia but with a strong background in A
 - ⚡ Fun fact: I am a former amateur theater actress
 
 :fire: **Most proud project:**
+- [FreeRagDocumentSearch](https://github.com/valinsogna/free-rag-document-search) - a production-ready Retrieval-Augmented Generation (RAG) system that enables natural language search across your local documents using completely free, open-source LLMs via Ollama.
 - [GovTaxOptimal_RL](https://github.com/valinsogna/GovTaxOptimal_RL) - **thesis project** RL framework designed to simulate and optimize government taxation policies. Focused on balancing economic equality and consumption, it employs state-of-the-art RL algorithms, PPO and SAC, to navigate wealth taxation strategies across various economic scenarios, aiming to achieve optimal wealth distribution and economic efficiency
 - [GPTGram](https://github.com/SilvioBaratto/GPTGram) - Telegram chatbot API using decoder-only transformer LLM
 - [AutoMLP-GA](https://github.com/valinsogna/AutoMLP-GA) - Automation of topology-optimization for Multi-Layer Perceptrons using Genetic Algorithms for classification tasks
