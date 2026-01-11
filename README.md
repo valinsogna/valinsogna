@@ -25,6 +25,7 @@ I am an Automation Engineer @ Generali Italia but with a strong background in AI
 - [data_visualization_project](https://github.com/valinsogna/data_visualization_project) - Data Visualization techniques for a case study
 - [Covid19-Hospitalization-Insights_Lombardia_2020-2](https://github.com/valinsogna/Covid19-Hospitalization-Insights_Lombardia_2020-21) - Case study application of GLM and GAM models
 - [2021Assignement02](https://github.com/valinsogna/2021Assignement02) - Parallel implementation of kd-tree construction using MPI & OpenMP in C
+- [2021Assignement01](https://github.com/valinsogna/2021Assignement01) - Use cases of Parrlel Computing via MPI paradigm.
 - [c-_rbt_project](https://github.com/valinsogna/c-_rbt_project) - Implementation of Red-Black Tree class in C++
 
 📫 **Contact:** 
