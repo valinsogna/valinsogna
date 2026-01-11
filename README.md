@@ -11,7 +11,7 @@ I am an Automation Engineer @ Generali Italia but with a strong background in AI
 - ⚡ Fun fact: I am a former amateur theater actress
 
 :fire: **Most proud project:**
-- [multiAgentResearchAssistant](https://github.com/valinsogna/multi_agent_research_assistant) - Multi-agent system with MCP and A2A protocols to perform web searches, analyze documents and generate synthetic reports using local language models (e.g. DeepSeek via Ollama).
+- [MultiAgentResearchAssistant](https://github.com/valinsogna/multi_agent_research_assistant) - Multi-agent system with MCP and A2A protocols to perform web searches, analyze documents and generate synthetic reports using local language models (e.g. DeepSeek via Ollama).
 - [FreeRagDocumentSearch](https://github.com/valinsogna/free-rag-document-search) - a production-ready Retrieval-Augmented Generation (RAG) system that enables natural language search across your local documents using completely free, open-source LLMs via Ollama.
 - [GovTaxOptimal_RL](https://github.com/valinsogna/GovTaxOptimal_RL) - **thesis project** RL framework designed to simulate and optimize government taxation policies. Focused on balancing economic equality and consumption, it employs state-of-the-art RL algorithms, PPO and SAC, to navigate wealth taxation strategies across various economic scenarios, aiming to achieve optimal wealth distribution and economic efficiency
 - [GPTGram](https://github.com/SilvioBaratto/GPTGram) - Telegram chatbot API using decoder-only transformer LLM
